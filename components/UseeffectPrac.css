@@ -1,0 +1,11 @@
+.btn{
+    background-color: #007bff;   /* Light Blue Background */
+  color: white;                /* White Text */
+  border: none;                /* No Border */
+  padding: 15px 30px;          /* Increase Button Size */
+  font-size: 18px;             /* Increase Font Size */
+  border-radius: 8px;          /* Rounded Corners */
+  cursor: pointer;             /* Pointer Cursor on Hover */
+  margin: 10px;                /* Space Between Buttons */
+  transition: background-color 0.3s ease;  /* Smooth Hover Effect */
+}
